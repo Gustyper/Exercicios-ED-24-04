@@ -14,6 +14,7 @@ Durante a aula, foram propostos três exercícios para aprimorar o entendimento 
 
 **Alunos:**
 Gustavo Bianchi da Silva
+
 Luís Felipe de Abreu Marciano, 231708002
 
 **Curso:** 3º período de Ciência de Dados e I.A
