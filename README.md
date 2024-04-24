@@ -10,7 +10,7 @@ Durante a aula, foram propostos três exercícios para aprimorar o entendimento 
 2. **deleteNodebyValue(Node**, int):** Elaborar a função para deletar o primeiro nó com um valor específico na lista, mesmo que haja mais de uma ocorrência desse valor.
 3. **searchNodebyValue(Node*, int):** Elaborar a função para buscar um nó na lista com um valor específico e retornar um ponteiro para esse nó, se encontrado.
 
-## Autor
+## Autores
 
-**Aluno:** Gustavo Bianchi da Silva  
+**Alunos:** Gustavo Bianchi da Silva e Luís Felipe de Abreu Marciano
 **Curso:** 3º período de Ciência de Dados e I.A
