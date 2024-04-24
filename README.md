@@ -12,5 +12,5 @@ Durante a aula, foram propostos três exercícios para aprimorar o entendimento 
 
 ## Autores
 
-**Alunos:** Gustavo Bianchi da Silva e Luís Felipe de Abreu Marciano 
+**Alunos:** Gustavo Bianchi da Silva e Luís Felipe de Abreu Marciano.
 **Curso:** 3º período de Ciência de Dados e I.A
