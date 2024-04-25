@@ -13,7 +13,7 @@ Durante a aula, foram propostos três exercícios para aprimorar o entendimento 
 ## Autores
 
 **Alunos:**
-Gustavo Bianchi da Silva
+Gustavo Bianchi da Silva, 23178005
 
 Luís Felipe de Abreu Marciano, 231708002
 
